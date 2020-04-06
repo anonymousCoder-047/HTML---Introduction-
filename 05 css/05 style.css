@@ -1,0 +1,23 @@
+/* the * is a universal selector */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* h1 is a heading selector */
+
+h1 {
+    text-align: center;
+    font-size: 36px;
+    font-family: lato;
+    color: red;
+}
+
+/* p is a paragraph selector */
+
+p {
+    text-align: center; /* this will align the text at the center */
+    font-family: jokerman; /* this will select the specific font style */
+    font-size: 18px; /* defining the font size */
+}
